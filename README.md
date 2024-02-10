@@ -33,5 +33,5 @@ To run the Turtle Crossing game, follow these steps:
 
    ```bash
    git clone https://github.com/Ishay1997/turtle-crossing.git
- <img width="450" alt="Screenshot 2024-01-20 211534" src="car_game.PNG">
+ <img width="450" alt="Screenshot 2024-01-20 211534" src="carGame.PNG">
 
